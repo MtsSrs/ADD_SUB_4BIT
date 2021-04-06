@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Apr  5 17:53:21 2021
+# Process ID: 8072
+# Current directory: C:/Users/mathe/Desktop/Facul/vivado/PEDproj/somador_subtrator4bits
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4908 C:\Users\mathe\Desktop\Facul\vivado\PEDproj\somador_subtrator4bits\somador_subtrator4bits.xpr
+# Log file: C:/Users/mathe/Desktop/Facul/vivado/PEDproj/somador_subtrator4bits/vivado.log
+# Journal file: C:/Users/mathe/Desktop/Facul/vivado/PEDproj/somador_subtrator4bits\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/mathe/Desktop/Facul/vivado/PEDproj/somador_subtrator4bits/somador_subtrator4bits.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+source Soma4_tb.tcl
+relaunch_sim
+relaunch_sim
+close_sim

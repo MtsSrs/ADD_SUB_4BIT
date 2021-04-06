@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../somador_subtrator4bits.srcs/sources_1/new/Overflow_soma4.vhd" \
+"../../../../somador_subtrator4bits.srcs/sources_1/new/Soma1.vhd" \
+"../../../../somador_subtrator4bits.srcs/sources_1/new/Soma4.vhd" \
+"../../../../somador_subtrator4bits.srcs/sim_1/new/Soma4_tb.vhd" \
+
+# Do not sort compile order
+nosort
